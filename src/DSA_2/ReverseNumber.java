@@ -9,7 +9,7 @@ public class ReverseNumber {
 //            n=n/10;
 //            revno=(revno*10)+last;
        // }
-        print2Rev(0,10);
+        print2(10,0);
     }
     static void print(int i,int n){
         if(i<n){
